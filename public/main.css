@@ -1,0 +1,20 @@
+.chose {
+    display: flex;
+    justify-content: space-between;
+    max-width: 60%;
+    margin: auto;
+}
+
+.choice {
+    display: block;
+    min-width: 20%;
+    border: 2px solid black;
+    border-radius: 12px;
+    text-align: center;
+    padding: 5%;
+    font-size: xx-large;
+}
+
+h1 {
+    text-align: center;
+}
